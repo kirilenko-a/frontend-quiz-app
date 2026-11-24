@@ -20,3 +20,96 @@
   --color-orange-50: #fff5ed;
   --color-red-500: #ee5454;
 }
+
+@utility preset-1 {
+  font-family: "Rubik", sans-serif;
+  font-size: 9rem;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+@utility preset-2 {
+  font-family: "Rubik", sans-serif;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 100%;
+}
+
+@utility preset-3 {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 500;
+  line-height: 120%;
+}
+
+@utility preset-4 {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+@utility preset-5-medium {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 150%;
+}
+
+@utility preset-5-regular {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 150%;
+}
+
+@utility preset-6 {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 150%;
+}
+
+@utility preset-1-mobile {
+  font-family: "Rubik", sans-serif;
+  font-size: 5.5rem;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+@utility preset-2-mobile {
+  font-family: "Rubik", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+@utility preset-2-mobile-light {
+  font-family: "Rubik", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 100%;
+}
+
+@utility preset-3-mobile {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 120%;
+}
+
+@utility preset-4-mobile {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+@utility preset-5-mobile {
+  font-family: "Rubik", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 150%;
+}
